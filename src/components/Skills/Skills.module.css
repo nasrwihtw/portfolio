@@ -18,7 +18,7 @@
 .content {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: space-around;
   margin-top: 14px;
 }
 
@@ -26,7 +26,7 @@
   width: 45%;
   display: flex;
   flex-wrap: wrap;
-  gap: 37px;
+  gap: 50px;
 }
 
 .skill {
@@ -42,6 +42,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 20px;
   width: 120px;
   height: 120px;
 }
