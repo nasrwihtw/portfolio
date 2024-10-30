@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Chat App",
+      "imageSrc": "projects/chatApp.png",
+      "description": "This is a project made to learn MERN Stack",
+      "skills": ["Mongodb", "Express", "React", "Node", "Socket.io"],
+      "demo": "https://chat-app-se1j.onrender.com",
+      "source": "https://github.com/nasrwihtw/mern-chat-app"
+    },
+    {
+      "title": "crown clothes shop",
+      "imageSrc": "projects/clothes-shop.png",
+      "description": "This is a project made to learn react framework by building an App.",
+      "skills": ["React", "JS", "scss", "firebase"],
+      "demo": "https://unrivaled-flan-2b0c2d.netlify.app",
+      "source": "https://github.com/nasrwihtw/crown-cloth-shop"
+    },
+    {
+      "title": "Budget App",
+      "imageSrc": "projects/budget.png",
+      "description": "This is a project made to practice react by building an app.",
+      "skills": ["React", "JS", "Bootstrap"],
+      "demo": "https://budget-app-nine-pink.vercel.app",
+      "source": "https://github.com/nasrwihtw/budget-app"
+    }
+  ]
