@@ -11,7 +11,7 @@
       "title": "crown clothes shop",
       "imageSrc": "projects/clothes-shop.png",
       "description": "This is a project made to learn react framework by building an App.",
-      "skills": ["React", "JS", "scss", "firebase"],
+      "skills": ["React", "JS", "SCSS", "Firebase"],
       "demo": "https://unrivaled-flan-2b0c2d.netlify.app",
       "source": "https://github.com/nasrwihtw/crown-cloth-shop"
     },
